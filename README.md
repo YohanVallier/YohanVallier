@@ -246,6 +246,7 @@ Se você precisa organizar dados, automatizar processos, coletar informações o
 **E-mail:** [yohanvallier01@gmail.com](mailto:yohanvallier01@gmail.com)  
 **LinkedIn:** [linkedin.com/in/yohan-vallier-895a342b7](https://www.linkedin.com/in/yohan-vallier-895a342b7/)  
 **GitHub:** [github.com/YohanVallier](https://github.com/YohanVallier)
+**Linkedin** [https://www.linkedin.com/in/yohan-vallier-895a342b7/](https://www.linkedin.com/in/yohan-vallier-895a342b7/)
 
 ---
 
