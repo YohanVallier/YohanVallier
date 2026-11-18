@@ -9,6 +9,7 @@
 Building practical, organized, and maintainable solutions for businesses and individuals.
 
 [![GitHub](https://img.shields.io/badge/GitHub-YohanVallier-181717?style=for-the-badge&logo=github)](https://github.com/YohanVallier)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yohan-vallier-895a342b7/)
 [![Email](https://img.shields.io/badge/Email-Contact%20me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yohanvallier01@gmail.com)
 
 **Available for freelance projects in Brazil and worldwide.**
@@ -210,6 +211,7 @@ I'd be happy to discuss your project and explore how I can help.
 ### Get in touch
 
 [![Email](https://img.shields.io/badge/yohanvallier01%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yohanvallier01@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yohan-vallier-895a342b7/)
 [![GitHub](https://img.shields.io/badge/Explore%20my%20repositories-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YohanVallier)
 
 **Based in Brazil · Available for remote freelance projects worldwide**
@@ -242,6 +244,7 @@ Estou aberto a projetos freelance no Brasil e no exterior.
 Se você precisa organizar dados, automatizar processos, coletar informações ou desenvolver uma solução em Python, entre em contato.
 
 **E-mail:** [yohanvallier01@gmail.com](mailto:yohanvallier01@gmail.com)  
+**LinkedIn:** [linkedin.com/in/yohan-vallier-895a342b7](https://www.linkedin.com/in/yohan-vallier-895a342b7/)  
 **GitHub:** [github.com/YohanVallier](https://github.com/YohanVallier)
 
 ---
