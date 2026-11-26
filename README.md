@@ -10,7 +10,7 @@
 
 # Yohan Vallier
 
-### Data Science · AI Automation · Full Stack & Web Development
+### Data Science · AI Automation · Full Stack &amp; Web Development
 
 <p>
   <a href="#english"><kbd><b>&nbsp;&nbsp;🇺🇸 English&nbsp;&nbsp;</b></kbd></a>
@@ -19,21 +19,17 @@
 </p>
 
 <a href="https://github.com/YohanVallier">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3200&pause=900&color=A855F7&center=true&vCenter=true&width=780&height=44&lines=Building+Multi-Agent+AI+Workflows+with+n8n+%26+Python;Turning+Raw+Data+into+Insights+%26+Automated+Pipelines;Developing+Full+Stack+Web+Apps%2C+APIs+%26+BI+Dashboards;Solving+Real+Problems+with+Clean%2C+Maintainable+Code" alt="Animated Headline" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3200&pause=900&color=8B5CF6&center=true&vCenter=true&width=780&height=44&lines=Building+Multi-Agent+AI+Workflows+with+n8n+%26+Python;Turning+Raw+Data+into+Insights+%26+Automated+Pipelines;Developing+Full+Stack+Web+Apps%2C+APIs+%26+BI+Dashboards;Solving+Real+Problems+with+Clean%2C+Maintainable+Code" alt="Animated Headline" />
 </a>
 
 **Combining data, AI automation, and software development to solve real problems with organized, maintainable solutions.**
 
 <p>
-  <a href="https://github.com/YohanVallier">
-    <img src="https://img.shields.io/badge/GitHub-YohanVallier-181717?style=for-the-badge&logo=github" alt="GitHub" />
-  </a>
-  <a href="https://www.linkedin.com/in/yohan-vallier-895a342b7/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:yohanvallier01@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
+  <a href="https://github.com/YohanVallier"><kbd><b>&nbsp;&nbsp;💻 GitHub · YohanVallier&nbsp;&nbsp;</b></kbd></a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/yohan-vallier-895a342b7/"><kbd><b>&nbsp;&nbsp;💼 LinkedIn · Connect&nbsp;&nbsp;</b></kbd></a>
+  &nbsp;
+  <a href="mailto:yohanvallier01@gmail.com"><kbd><b>&nbsp;&nbsp;✉️ Email · Contact me&nbsp;&nbsp;</b></kbd></a>
 </p>
 
 <p>
@@ -47,6 +43,21 @@
 </div>
 
 ---
+
+## 📑 Table of Contents
+
+- [👨‍💻 About Me](#en-about)
+- [📈 GitHub Activity](#en-activity)
+- [🛠️ What I Can Help With](#en-help)
+- [🧰 Technologies & Tools](#en-tech)
+- [🚀 Featured Projects](#en-projects)
+- [🎯 My Development Principles](#en-principles)
+- [💼 Freelance Services](#en-services)
+- [🤝 Let's Work Together](#en-contact)
+
+---
+
+<a id="en-about"></a>
 
 ## 👨‍💻 About Me
 
@@ -71,6 +82,8 @@ flowchart LR
 
 ---
 
+<a id="en-activity"></a>
+
 ## 📈 GitHub Activity
 
 <div align="center">
@@ -84,6 +97,8 @@ flowchart LR
 </div>
 
 ---
+
+<a id="en-help"></a>
 
 ## 🛠️ What I Can Help With
 
@@ -155,11 +170,13 @@ flowchart LR
 
 ---
 
-## 🧰 Technologies & Tools
+<a id="en-tech"></a>
+
+## 🧰 Technologies &amp; Tools
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=py,js,ts,php,html,css,react,vite,fastapi,postgres,sqlite,wordpress,docker,linux,git,github,githubactions,sklearn&perline=9" alt="Core Tech Stack Icons" />
+<img src="https://skillicons.dev/icons?i=py,js,ts,php,html,css,react,vite,fastapi,postgres,sqlite,wordpress,docker,linux,git,github,githubactions,sklearn&perline=9&theme=dark" alt="Core Tech Stack Icons" />
 
 </div>
 
@@ -167,71 +184,20 @@ flowchart LR
 
 The technologies below reflect tools used in my projects, practical familiarity, or ongoing learning. My experience varies by tool, and I continue to expand this stack.
 
-**Programming Languages & Web Technologies**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat&logo=wordpress&logoColor=white)
-
-**Backend & API Development**
-
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=flat)
-![HTTPX](https://img.shields.io/badge/HTTPX-5B2C91?style=flat)
-![Uvicorn](https://img.shields.io/badge/Uvicorn-4051B5?style=flat)
-![APScheduler](https://img.shields.io/badge/APScheduler-444444?style=flat)
-
-**Python — Data Analysis & Processing**
-
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
-![OpenPyXL](https://img.shields.io/badge/OpenPyXL-2F6B3B?style=flat)
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat)
-![PyArrow](https://img.shields.io/badge/PyArrow-0088CC?style=flat)
-
-**Data Visualization & Business Intelligence**
-
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat)
-![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat&logo=plotly&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoftexcel&logoColor=white)
-
-**Machine Learning**
-
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-EC6B23?style=flat)
-
-**AI Agents, Automation & Web Data Collection**
-
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white)
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat&logo=playwright&logoColor=white)
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white)
-![Requests](https://img.shields.io/badge/Requests-2CA5E0?style=flat)
-![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-3B6D9A?style=flat)
-`OpenAI (GPT-4o / GPT-4.1)` · `DeepSeek` · `LangChain AI Agents`
-
-**Databases, Infrastructure & Quality**
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=flat&logo=pytest&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
-
-**Other Areas**
-
-`TypeScript` · `Vite` · `Mobile Development` · `Landing Pages` · `WordPress Maintenance` · `QA Testing` · `Basic Infrastructure Setup`
+| Layer / Area | Technologies &amp; Tools |
+|---|---|
+| **Programming Languages &amp; Web** | <kbd>&nbsp;Python&nbsp;</kbd> <kbd>&nbsp;SQL&nbsp;</kbd> <kbd>&nbsp;JavaScript&nbsp;</kbd> <kbd>&nbsp;TypeScript&nbsp;</kbd> <kbd>&nbsp;PHP&nbsp;</kbd> <kbd>&nbsp;HTML5&nbsp;</kbd> <kbd>&nbsp;CSS3&nbsp;</kbd> <kbd>&nbsp;React&nbsp;</kbd> <kbd>&nbsp;Vite&nbsp;</kbd> <kbd>&nbsp;WordPress&nbsp;</kbd> |
+| **Backend &amp; API Development** | <kbd>&nbsp;FastAPI&nbsp;</kbd> <kbd>&nbsp;Pydantic&nbsp;</kbd> <kbd>&nbsp;HTTPX&nbsp;</kbd> <kbd>&nbsp;Uvicorn&nbsp;</kbd> <kbd>&nbsp;APScheduler&nbsp;</kbd> |
+| **Data Analysis &amp; Processing** | <kbd>&nbsp;Pandas&nbsp;</kbd> <kbd>&nbsp;NumPy&nbsp;</kbd> <kbd>&nbsp;OpenPyXL&nbsp;</kbd> <kbd>&nbsp;SQLAlchemy&nbsp;</kbd> <kbd>&nbsp;PyArrow&nbsp;</kbd> |
+| **Data Visualization &amp; BI** | <kbd>&nbsp;Power BI&nbsp;</kbd> <kbd>&nbsp;Matplotlib&nbsp;</kbd> <kbd>&nbsp;Seaborn&nbsp;</kbd> <kbd>&nbsp;Plotly&nbsp;</kbd> <kbd>&nbsp;Excel&nbsp;</kbd> <kbd>&nbsp;Streamlit&nbsp;</kbd> |
+| **Machine Learning** | <kbd>&nbsp;Scikit-learn&nbsp;</kbd> <kbd>&nbsp;XGBoost&nbsp;</kbd> |
+| **AI Agents, Automation &amp; Scraping** | <kbd>&nbsp;n8n&nbsp;</kbd> <kbd>&nbsp;LangChain AI Agents&nbsp;</kbd> <kbd>&nbsp;OpenAI (GPT-4o / GPT-4.1)&nbsp;</kbd> <kbd>&nbsp;DeepSeek&nbsp;</kbd> <kbd>&nbsp;Playwright&nbsp;</kbd> <kbd>&nbsp;Selenium&nbsp;</kbd> <kbd>&nbsp;Requests&nbsp;</kbd> <kbd>&nbsp;BeautifulSoup&nbsp;</kbd> |
+| **Databases, Infra &amp; Quality** | <kbd>&nbsp;PostgreSQL&nbsp;</kbd> <kbd>&nbsp;SQLite&nbsp;</kbd> <kbd>&nbsp;Docker&nbsp;</kbd> <kbd>&nbsp;Git&nbsp;</kbd> <kbd>&nbsp;GitHub&nbsp;</kbd> <kbd>&nbsp;GitHub Actions&nbsp;</kbd> <kbd>&nbsp;Linux&nbsp;</kbd> <kbd>&nbsp;Pytest&nbsp;</kbd> |
+| **Other Areas** | <kbd>&nbsp;Mobile Development&nbsp;</kbd> <kbd>&nbsp;Landing Pages&nbsp;</kbd> <kbd>&nbsp;WordPress Maintenance&nbsp;</kbd> <kbd>&nbsp;QA Testing&nbsp;</kbd> <kbd>&nbsp;Basic Infrastructure Setup&nbsp;</kbd> |
 
 ---
+
+<a id="en-projects"></a>
 
 ## 🚀 Featured Projects
 
@@ -289,6 +255,9 @@ The technologies below reflect tools used in my projects, practical familiarity,
 </p>
 
 An end-to-end **conversational multi-agent Full Stack software factory** built in **n8n** using native LangChain AI Agents, conversational memory, and 14 strict Structured Output Parsers. Through a chat interface, a user describes an application idea; the workflow triages intent, designs architecture, runs **parallel UI/UX + Database** and **parallel Frontend + Backend** engineering stages, executes a **3-stage Security/QA/Code-Review audit pipeline**, dispatches **module-targeted self-healing fixers** (up to 3 retries), packages Docker/CI/CD artifacts, and serves the finished repository as a downloadable `.zip` via a secure webhook endpoint.
+
+> [!IMPORTANT]
+> **Showcase Notice:** Published as a portfolio showcase preserving the real **66-node / 59-connection** topology in a redacted, non-functional blueprint (`workflow/multi_agent_fullstack_factory_blueprint.json`).
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/YohanVallier/n8n-multi-agent-fullstack-factory/main/assets/architecture_diagram.png" alt="Multi-Agent Full Stack Software Factory Architecture Diagram" width="100%" />
@@ -349,8 +318,6 @@ An end-to-end **conversational multi-agent Full Stack software factory** built i
 - **3-Stage Audit Gate &amp; Self-Healing Loop:** `AppSec Auditor` → `QA & Test Engineer` → `Code Reviewer`; routes blocking `CRITICAL`/`HIGH` findings via `Switch` to the responsible module fixer (up to 3 cycles) or generates a **Human Intervention Report**.
 - **Secure Binary Download Webhook &amp; Global Error Handling:** `GET` download endpoint with anti-path-traversal regex validation (HTTP `200`/`400`/`404`) + global `Error Trigger`.
 
-> **Showcase Notice:** Published as a portfolio showcase preserving the real **66-node / 59-connection** topology in a redacted, non-functional blueprint (`workflow/multi_agent_fullstack_factory_blueprint.json`).
-
 **Technologies:** n8n, LangChain AI Agents, OpenAI (`GPT-4o`, `GPT-4o-mini`), DeepSeek, Structured Output Parsers, JavaScript, Webhooks, Docker, GitHub Actions.
 
 [Explore the n8n-multi-agent-fullstack-factory repository →](https://github.com/YohanVallier/n8n-multi-agent-fullstack-factory)
@@ -368,6 +335,9 @@ An end-to-end **conversational multi-agent Full Stack software factory** built i
 </p>
 
 An incremental **multi-agent software factory** engineered in **n8n** that plans, develops, audits, self-heals, documents, and packages modular software — automatically delivering a downloadable `.zip` archive directly in the browser along with QA/Security audit reports, a beginner-friendly user manual (`MANUAL_DE_UTILIZACAO.txt`), and a state snapshot (`PROJECT_STATE.json`) for multi-module continuity.
+
+> [!IMPORTANT]
+> **Showcase Notice:** Published as a portfolio showcase preserving the real **34-node** topology in a redacted, non-functional blueprint (`workflow/multi_agent_software_factory_blueprint.json`).
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/YohanVallier/n8n-multi-agent-software-factory-data-science/main/assets/architecture_diagram.png" alt="Multi-Agent Data Science Software Factory Architecture Diagram" width="100%" />
@@ -414,8 +384,6 @@ An incremental **multi-agent software factory** engineered in **n8n** that plans
 - **Real-Time FinOps `Budget Guardrail`:** calculates token usage and USD cost on every LLM call; if spending hits the configured cap, halts safely and exports a partial ZIP with `BUDGET_EXCEEDED_REPORT.json`.
 - **Parallel Quality Gate &amp; Self-Healing Loop:** `QA & Code Reviewer` and `Security Auditor` run in parallel; `CRITICAL`/`HIGH` findings trigger `Debugger & Fixer` for up to **3 automated retries** before safe escalation (`ESCALATION_REPORT.json`).
 - **Stateful Incremental Continuity:** outputs `PROJECT_STATE.json` (stack, directory tree, DB schema, API contracts, existing files) + `DELIVERY_REPORT.json` so subsequent modules build seamlessly on approved deliverables.
-
-> **Showcase Notice:** Published as a portfolio showcase preserving the real **34-node** topology in a redacted, non-functional blueprint (`workflow/multi_agent_software_factory_blueprint.json`).
 
 **Technologies:** n8n, OpenAI (`gpt-4.1`), DeepSeek (`deepseek-chat`), Strict JSON Contracts, JavaScript, Real-Time FinOps Token Accounting, Form Trigger &amp; Webhooks.
 
@@ -491,6 +459,8 @@ My professional portfolio website presenting my work across Data Science, Automa
 
 ---
 
+<a id="en-principles"></a>
+
 ## 🎯 My Development Principles
 
 <table>
@@ -514,6 +484,8 @@ My professional portfolio website presenting my work across Data Science, Automa
 
 ---
 
+<a id="en-services"></a>
+
 ## 💼 Freelance Services
 
 | Service | Examples |
@@ -535,6 +507,8 @@ Every project starts with understanding the requirements, defining the expected 
 
 ---
 
+<a id="en-contact"></a>
+
 ## 🤝 Let's Work Together
 
 Need to organize data, automate a repetitive process, build an n8n AI workflow, improve a website, launch a landing page, adjust a WordPress site, or test an application?
@@ -542,22 +516,22 @@ Need to organize data, automate a repetitive process, build an n8n AI workflow, 
 <div align="center">
 
 <p>
-  <a href="mailto:yohanvallier01@gmail.com">
-    <img src="https://img.shields.io/badge/yohanvallier01%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://www.linkedin.com/in/yohan-vallier-895a342b7/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/YohanVallier">
-    <img src="https://img.shields.io/badge/Explore%20my%20repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
+  <a href="mailto:yohanvallier01@gmail.com"><kbd><b>&nbsp;&nbsp;✉️ yohanvallier01@gmail.com&nbsp;&nbsp;</b></kbd></a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/yohan-vallier-895a342b7/"><kbd><b>&nbsp;&nbsp;💼 LinkedIn · Connect&nbsp;&nbsp;</b></kbd></a>
+  &nbsp;
+  <a href="https://github.com/YohanVallier"><kbd><b>&nbsp;&nbsp;💻 Explore my repositories&nbsp;&nbsp;</b></kbd></a>
 </p>
 
 **Based in Brazil · Available for remote freelance projects worldwide**
 
 *Turning data into insights and ideas into practical digital solutions.*
 
-[⬆️ Back to top](#top) · [🇧🇷 Ir para a versão em Português](#portugues)
+<p>
+  <a href="#top"><kbd><b>&nbsp;⬆️ Back to top&nbsp;</b></kbd></a>
+  &nbsp;
+  <a href="#portugues"><kbd><b>&nbsp;🇧🇷 Ir para a versão em Português&nbsp;</b></kbd></a>
+</p>
 
 </div>
 
@@ -583,21 +557,17 @@ Need to organize data, automate a repetitive process, build an n8n AI workflow, 
 </p>
 
 <a href="https://github.com/YohanVallier">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3200&pause=900&color=A855F7&center=true&vCenter=true&width=780&height=44&lines=Criando+Fluxos+Multiagente+com+n8n%2C+OpenAI+%26+DeepSeek;Transformando+Dados+em+Insights+e+Pipelines+Automatizados;Desenvolvendo+Aplica%C3%A7%C3%B5es+Full+Stack%2C+APIs+e+Dashboards;Resolvendo+Problemas+Reais+com+C%C3%B3digo+Limpo+e+Organizado" alt="Título Animado" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3200&pause=900&color=8B5CF6&center=true&vCenter=true&width=780&height=44&lines=Criando+Fluxos+Multiagente+com+n8n%2C+OpenAI+%26+DeepSeek;Transformando+Dados+em+Insights+e+Pipelines+Automatizados;Desenvolvendo+Aplica%C3%A7%C3%B5es+Full+Stack%2C+APIs+e+Dashboards;Resolvendo+Problemas+Reais+com+C%C3%B3digo+Limpo+e+Organizado" alt="Título Animado" />
 </a>
 
 **Combinando dados, automação com IA e desenvolvimento de software para resolver problemas reais com soluções organizadas e sustentáveis.**
 
 <p>
-  <a href="https://github.com/YohanVallier">
-    <img src="https://img.shields.io/badge/GitHub-YohanVallier-181717?style=for-the-badge&logo=github" alt="GitHub" />
-  </a>
-  <a href="https://www.linkedin.com/in/yohan-vallier-895a342b7/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:yohanvallier01@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
+  <a href="https://github.com/YohanVallier"><kbd><b>&nbsp;&nbsp;💻 GitHub · YohanVallier&nbsp;&nbsp;</b></kbd></a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/yohan-vallier-895a342b7/"><kbd><b>&nbsp;&nbsp;💼 LinkedIn · Conectar&nbsp;&nbsp;</b></kbd></a>
+  &nbsp;
+  <a href="mailto:yohanvallier01@gmail.com"><kbd><b>&nbsp;&nbsp;✉️ Email · Fale comigo&nbsp;&nbsp;</b></kbd></a>
 </p>
 
 <p>
@@ -611,6 +581,21 @@ Need to organize data, automate a repetitive process, build an n8n AI workflow, 
 </div>
 
 ---
+
+## 📑 Sumário
+
+- [👨‍💻 Sobre Mim](#pt-sobre)
+- [📈 Atividade no GitHub](#pt-atividade)
+- [🛠️ Como Posso Ajudar](#pt-ajuda)
+- [🧰 Tecnologias & Ferramentas](#pt-tecnologias)
+- [🚀 Projetos em Destaque](#pt-projetos)
+- [🎯 Meus Princípios de Desenvolvimento](#pt-principios)
+- [💼 Serviços Freelance](#pt-servicos)
+- [🤝 Vamos Trabalhar Juntos](#pt-contato)
+
+---
+
+<a id="pt-sobre"></a>
 
 ## 👨‍💻 Sobre Mim
 
@@ -635,6 +620,8 @@ flowchart LR
 
 ---
 
+<a id="pt-atividade"></a>
+
 ## 📈 Atividade no GitHub
 
 <div align="center">
@@ -648,6 +635,8 @@ flowchart LR
 </div>
 
 ---
+
+<a id="pt-ajuda"></a>
 
 ## 🛠️ Como Posso Ajudar
 
@@ -719,11 +708,13 @@ flowchart LR
 
 ---
 
+<a id="pt-tecnologias"></a>
+
 ## 🧰 Tecnologias &amp; Ferramentas
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=py,js,ts,php,html,css,react,vite,fastapi,postgres,sqlite,wordpress,docker,linux,git,github,githubactions,sklearn&perline=9" alt="Ícones da Stack Principal" />
+<img src="https://skillicons.dev/icons?i=py,js,ts,php,html,css,react,vite,fastapi,postgres,sqlite,wordpress,docker,linux,git,github,githubactions,sklearn&perline=9&theme=dark" alt="Ícones da Stack Principal" />
 
 </div>
 
@@ -731,71 +722,20 @@ flowchart LR
 
 As tecnologias abaixo refletem ferramentas utilizadas nos meus projetos, familiaridade prática ou aprendizado contínuo. Meu nível de experiência varia conforme a ferramenta, e sigo expandindo essa stack.
 
-**Linguagens de Programação &amp; Tecnologias Web**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat&logo=wordpress&logoColor=white)
-
-**Desenvolvimento Back-End &amp; APIs**
-
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=flat)
-![HTTPX](https://img.shields.io/badge/HTTPX-5B2C91?style=flat)
-![Uvicorn](https://img.shields.io/badge/Uvicorn-4051B5?style=flat)
-![APScheduler](https://img.shields.io/badge/APScheduler-444444?style=flat)
-
-**Python — Análise e Processamento de Dados**
-
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
-![OpenPyXL](https://img.shields.io/badge/OpenPyXL-2F6B3B?style=flat)
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat)
-![PyArrow](https://img.shields.io/badge/PyArrow-0088CC?style=flat)
-
-**Visualização de Dados &amp; Business Intelligence**
-
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat)
-![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat&logo=plotly&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoftexcel&logoColor=white)
-
-**Machine Learning**
-
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-EC6B23?style=flat)
-
-**Agentes de IA, Automação &amp; Coleta de Dados Web**
-
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white)
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat&logo=playwright&logoColor=white)
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white)
-![Requests](https://img.shields.io/badge/Requests-2CA5E0?style=flat)
-![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-3B6D9A?style=flat)
-`OpenAI (GPT-4o / GPT-4.1)` · `DeepSeek` · `LangChain AI Agents`
-
-**Bancos de Dados, Infraestrutura &amp; Qualidade**
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=flat&logo=pytest&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
-
-**Outras Áreas**
-
-`TypeScript` · `Vite` · `Desenvolvimento Mobile` · `Landing Pages` · `Manutenção WordPress` · `Testes de QA` · `Infraestrutura Básica`
+| Camada / Área | Tecnologias &amp; Ferramentas |
+|---|---|
+| **Linguagens &amp; Tecnologias Web** | <kbd>&nbsp;Python&nbsp;</kbd> <kbd>&nbsp;SQL&nbsp;</kbd> <kbd>&nbsp;JavaScript&nbsp;</kbd> <kbd>&nbsp;TypeScript&nbsp;</kbd> <kbd>&nbsp;PHP&nbsp;</kbd> <kbd>&nbsp;HTML5&nbsp;</kbd> <kbd>&nbsp;CSS3&nbsp;</kbd> <kbd>&nbsp;React&nbsp;</kbd> <kbd>&nbsp;Vite&nbsp;</kbd> <kbd>&nbsp;WordPress&nbsp;</kbd> |
+| **Desenvolvimento Back-End &amp; APIs** | <kbd>&nbsp;FastAPI&nbsp;</kbd> <kbd>&nbsp;Pydantic&nbsp;</kbd> <kbd>&nbsp;HTTPX&nbsp;</kbd> <kbd>&nbsp;Uvicorn&nbsp;</kbd> <kbd>&nbsp;APScheduler&nbsp;</kbd> |
+| **Análise e Processamento de Dados** | <kbd>&nbsp;Pandas&nbsp;</kbd> <kbd>&nbsp;NumPy&nbsp;</kbd> <kbd>&nbsp;OpenPyXL&nbsp;</kbd> <kbd>&nbsp;SQLAlchemy&nbsp;</kbd> <kbd>&nbsp;PyArrow&nbsp;</kbd> |
+| **Visualização de Dados &amp; BI** | <kbd>&nbsp;Power BI&nbsp;</kbd> <kbd>&nbsp;Matplotlib&nbsp;</kbd> <kbd>&nbsp;Seaborn&nbsp;</kbd> <kbd>&nbsp;Plotly&nbsp;</kbd> <kbd>&nbsp;Excel&nbsp;</kbd> <kbd>&nbsp;Streamlit&nbsp;</kbd> |
+| **Machine Learning** | <kbd>&nbsp;Scikit-learn&nbsp;</kbd> <kbd>&nbsp;XGBoost&nbsp;</kbd> |
+| **Agentes de IA, Automação &amp; Scraping** | <kbd>&nbsp;n8n&nbsp;</kbd> <kbd>&nbsp;LangChain AI Agents&nbsp;</kbd> <kbd>&nbsp;OpenAI (GPT-4o / GPT-4.1)&nbsp;</kbd> <kbd>&nbsp;DeepSeek&nbsp;</kbd> <kbd>&nbsp;Playwright&nbsp;</kbd> <kbd>&nbsp;Selenium&nbsp;</kbd> <kbd>&nbsp;Requests&nbsp;</kbd> <kbd>&nbsp;BeautifulSoup&nbsp;</kbd> |
+| **Bancos de Dados, Infra &amp; Qualidade** | <kbd>&nbsp;PostgreSQL&nbsp;</kbd> <kbd>&nbsp;SQLite&nbsp;</kbd> <kbd>&nbsp;Docker&nbsp;</kbd> <kbd>&nbsp;Git&nbsp;</kbd> <kbd>&nbsp;GitHub&nbsp;</kbd> <kbd>&nbsp;GitHub Actions&nbsp;</kbd> <kbd>&nbsp;Linux&nbsp;</kbd> <kbd>&nbsp;Pytest&nbsp;</kbd> |
+| **Outras Áreas** | <kbd>&nbsp;Desenvolvimento Mobile&nbsp;</kbd> <kbd>&nbsp;Landing Pages&nbsp;</kbd> <kbd>&nbsp;Manutenção WordPress&nbsp;</kbd> <kbd>&nbsp;Testes de QA&nbsp;</kbd> <kbd>&nbsp;Infraestrutura Básica&nbsp;</kbd> |
 
 ---
+
+<a id="pt-projetos"></a>
 
 ## 🚀 Projetos em Destaque
 
@@ -853,6 +793,9 @@ As tecnologias abaixo refletem ferramentas utilizadas nos meus projetos, familia
 </p>
 
 **Fábrica de software Full Stack conversacional e multiagente** construída no **n8n** com agentes nativos LangChain, memória conversacional e 14 Structured Output Parsers. Pelo chat, o usuário descreve o sistema desejado; o fluxo faz triagem de intenção, projeta a arquitetura, executa em **paralelo UI/UX + Banco de Dados** e **Frontend + Backend**, passa por uma **esteira de auditoria em 3 etapas (Segurança + QA + Revisão de Código)**, aciona **corretores especialistas por módulo** em ciclo de autocorreção (até 3 tentativas), gera artefatos de DevOps/CI/CD e disponibiliza o projeto completo em `.zip` via webhook seguro de download.
+
+> [!IMPORTANT]
+> **Aviso de Vitrine:** Publicado como vitrine de portfólio preservando a topologia real de **66 nós e 59 conexões** em blueprint protegido/não executável (`workflow/multi_agent_fullstack_factory_blueprint.json`).
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/YohanVallier/n8n-multi-agent-fullstack-factory/main/assets/architecture_diagram.png" alt="Diagrama de Arquitetura da Fábrica Multiagente Full Stack" width="100%" />
@@ -913,8 +856,6 @@ As tecnologias abaixo refletem ferramentas utilizadas nos meus projetos, familia
 - **Auditoria em 3 Etapas + Autocorreção Direcionada:** `Auditor AppSec` → `Engenheiro de QA` → `Revisor de Código`; falhas `CRITICAL`/`HIGH` são direcionadas via `Switch` ao corretor responsável (até 3 ciclos) ou geram um **Relatório de Intervenção Humana**.
 - **Webhook Seguro de Download e Tratamento Global de Erros:** subfluxo `GET` com validação regex contra *path traversal* (HTTP `200`/`400`/`404`) + `Error Trigger` global.
 
-> **Aviso de Vitrine:** Publicado como vitrine de portfólio preservando a topologia real de **66 nós e 59 conexões** em blueprint protegido/não executável (`workflow/multi_agent_fullstack_factory_blueprint.json`).
-
 **Tecnologias:** n8n, LangChain AI Agents, OpenAI (`GPT-4o`, `GPT-4o-mini`), DeepSeek, Structured Output Parsers, JavaScript, Webhooks, Docker, GitHub Actions.
 
 [Explorar o repositório n8n-multi-agent-fullstack-factory →](https://github.com/YohanVallier/n8n-multi-agent-fullstack-factory)
@@ -932,6 +873,9 @@ As tecnologias abaixo refletem ferramentas utilizadas nos meus projetos, familia
 </p>
 
 **Fábrica de software multiagente incremental** construída no **n8n** para planejar, desenvolver, auditar, corrigir, documentar e empacotar módulos de software — entregando um arquivo `.zip` pronto para download direto no navegador, acompanhado de relatórios de QA/Segurança, manual para usuários leigos (`MANUAL_DE_UTILIZACAO.txt`) e snapshot de memória (`PROJECT_STATE.json`) para continuidade entre módulos.
+
+> [!IMPORTANT]
+> **Aviso de Vitrine:** Publicado como vitrine de portfólio preservando a topologia real de **34 nós** em blueprint protegido/não executável (`workflow/multi_agent_software_factory_blueprint.json`).
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/YohanVallier/n8n-multi-agent-software-factory-data-science/main/assets/architecture_diagram.png" alt="Diagrama de Arquitetura da Fábrica Multiagente de Ciência de Dados" width="100%" />
@@ -978,8 +922,6 @@ As tecnologias abaixo refletem ferramentas utilizadas nos meus projetos, familia
 - **FinOps com `Budget Guardrail` em Tempo Real:** calcula o gasto em USD por chamada a partir dos tokens retornados; ao atingir o teto configurado, interrompe novas chamadas com segurança e exporta um ZIP parcial com `BUDGET_EXCEEDED_REPORT.json`.
 - **Quality Gate Paralelo com Self-Healing:** `QA & Code Reviewer` e `Security Auditor` rodam simultaneamente; falhas `CRITICAL`/`HIGH` acionam o `Debugger & Fixer` por até **3 ciclos** antes de escalar com `ESCALATION_REPORT.json`.
 - **Desenvolvimento Incremental com Memória de Estado:** gera `PROJECT_STATE.json` (stack, diretórios, schema de banco, contratos de API e arquivos existentes) e `DELIVERY_REPORT.json` para evolução contínua entre módulos.
-
-> **Aviso de Vitrine:** Publicado como vitrine de portfólio preservando a topologia real de **34 nós** em blueprint protegido/não executável (`workflow/multi_agent_software_factory_blueprint.json`).
 
 **Tecnologias:** n8n, OpenAI (`gpt-4.1`), DeepSeek (`deepseek-chat`), Contratos JSON Estritos, JavaScript, Contabilização FinOps de Tokens, Form Trigger &amp; Webhooks.
 
@@ -1055,6 +997,8 @@ Meu site de portfólio profissional para apresentar projetos e serviços em Ciê
 
 ---
 
+<a id="pt-principios"></a>
+
 ## 🎯 Meus Princípios de Desenvolvimento
 
 <table>
@@ -1078,6 +1022,8 @@ Meu site de portfólio profissional para apresentar projetos e serviços em Ciê
 
 ---
 
+<a id="pt-servicos"></a>
+
 ## 💼 Serviços Freelance
 
 | Serviço | Exemplos |
@@ -1099,6 +1045,8 @@ Todo projeto começa entendendo os requisitos, definindo o resultado esperado e 
 
 ---
 
+<a id="pt-contato"></a>
+
 ## 🤝 Vamos Trabalhar Juntos
 
 Precisa organizar dados, automatizar um processo repetitivo, construir um fluxo multiagente no n8n, melhorar um site, criar uma landing page, ajustar um projeto WordPress ou testar uma aplicação?
@@ -1106,21 +1054,21 @@ Precisa organizar dados, automatizar um processo repetitivo, construir um fluxo 
 <div align="center">
 
 <p>
-  <a href="mailto:yohanvallier01@gmail.com">
-    <img src="https://img.shields.io/badge/yohanvallier01%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://www.linkedin.com/in/yohan-vallier-895a342b7/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/YohanVallier">
-    <img src="https://img.shields.io/badge/Explore%20my%20repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
+  <a href="mailto:yohanvallier01@gmail.com"><kbd><b>&nbsp;&nbsp;✉️ yohanvallier01@gmail.com&nbsp;&nbsp;</b></kbd></a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/yohan-vallier-895a342b7/"><kbd><b>&nbsp;&nbsp;💼 LinkedIn · Conectar&nbsp;&nbsp;</b></kbd></a>
+  &nbsp;
+  <a href="https://github.com/YohanVallier"><kbd><b>&nbsp;&nbsp;💻 Explorar meus repositórios&nbsp;&nbsp;</b></kbd></a>
 </p>
 
 **Baseado no Brasil · Disponível para projetos freelance remotos no mundo todo**
 
 *Transformando dados em insights e ideias em soluções digitais práticas.*
 
-[⬆️ Voltar ao topo](#top) · [🇺🇸 Switch to English](#english)
+<p>
+  <a href="#top"><kbd><b>&nbsp;⬆️ Voltar ao topo&nbsp;</b></kbd></a>
+  &nbsp;
+  <a href="#english"><kbd><b>&nbsp;🇺🇸 Switch to English&nbsp;</b></kbd></a>
+</p>
 
 </div>
